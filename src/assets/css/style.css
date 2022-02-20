@@ -1,0 +1,16 @@
+#card_area{
+    padding: 100px 0;
+}
+#edtails_area{
+    padding: 100px 0;
+}
+.blog_details_wrapper{
+
+}
+.blog_details_wrapper img{
+    width: 100%;
+    padding-bottom: 20px;
+}
+.blog_details_wrapper p{
+    padding-top: 10px;
+}
